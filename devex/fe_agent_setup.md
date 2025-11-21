@@ -27,6 +27,10 @@ Windows:
 
 "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --no-first-run --no-default-browser-check --user-data-dir=C:\Temp\ChromeDebug
 
+Linux: 
+
+google-chrome --remote-debugging-port=9222 --no-first-run --no-default-browser-check --user-data-dir=/tmp/chrome-debug
+
 
 2. Configure Your Agent (MCP Settings)
 
